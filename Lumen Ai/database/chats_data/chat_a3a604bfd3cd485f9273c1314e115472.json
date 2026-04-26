@@ -1,0 +1,13 @@
+{
+  "session_id": "a3a604bf-d3cd-485f-9273-c1314e115472",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tell me a fun fact"
+    },
+    {
+      "role": "assistant",
+      "content": "Ratan Tata, the"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "session_id": "66b1307c-b715-4383-8c9d-3bb62c96302c",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello man can you tell me what is this"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me take a look..."
+    },
+    {
+      "role": "user",
+      "content": "hello man can you tell me what is this"
+    },
+    {
+      "role": "assistant",
+      "content": "The image shows a young man holding up a watch. The man has dark hair and is shirtless, and he is holding a silver metal watch with a light green face in his right hand."
+    },
+    {
+      "role": "user",
+      "content": "only tell me about the object"
+    },
+    {
+      "role": "assistant",
+      "content": "The object is a watch. \nThe watch has a silver metal band and a blue face with white lines."
+    },
+    {
+      "role": "user",
+      "content": "and what is this"
+    },
+    {
+      "role": "assistant",
+      "content": "The man is holding a phone. The phone has a picture of a young child on its screen."
+    },
+    {
+      "role": "user",
+      "content": "generate me an image of Iron Man and give me"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "ok now generate me an image of a missile"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "maybe a cricket player who is playing cricket"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me take a look..."
+    },
+    {
+      "role": "user",
+      "content": "maybe a cricket player who is playing cricket"
+    },
+    {
+      "role": "assistant",
+      "content": "The image does not show a cricket player playing cricket. It shows a young man with dark hair and no shirt, looking at the camera with a neutral expression."
+    },
+    {
+      "role": "user",
+      "content": "I wanted you to generate an image of a cricketer playing cricket"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

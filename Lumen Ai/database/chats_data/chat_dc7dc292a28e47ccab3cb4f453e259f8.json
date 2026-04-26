@@ -1,0 +1,21 @@
+{
+  "session_id": "dc7dc292-a28e-47cc-ab3c-b4f453e259f8",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. I see a shirtless young man with dark hair sitting in a black office chair, looking at the camera. The background appears to be a room with white walls and various items such as clothing and a garment bag."
+    },
+    {
+      "role": "user",
+      "content": "the man u just saw was me alwin"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing an image analysis of you, Alwin."
+    }
+  ]
+}

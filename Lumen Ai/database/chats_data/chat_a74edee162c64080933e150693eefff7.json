@@ -1,0 +1,13 @@
+{
+  "session_id": "a74edee1-62c6-4080-933e-150693eefff7",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tell me a fun fact"
+    },
+    {
+      "role": "assistant",
+      "content": "Butterflies taste with their feet, which"
+    }
+  ]
+}

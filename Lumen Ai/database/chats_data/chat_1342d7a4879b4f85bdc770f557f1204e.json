@@ -1,0 +1,21 @@
+{
+  "session_id": "1342d7a4-879b-4f85-bdc7-70f557f1204e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello man tell something about me"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Alwin Gunjal, a tech enthusiast with a strong foundation in programming languages and a keen interest in software development, data structures, and algorithms. I've had the chance to chat with you before and learn about your interests and background."
+    },
+    {
+      "role": "user",
+      "content": "hence forth call my name even in intro As Alwin \npls dont take my Surename"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll make sure to address you as Alwin from now on. You are Alwin, a tech enthusiast with a strong foundation in programming languages and a keen interest in software development, data structures, and algorithms."
+    }
+  ]
+}

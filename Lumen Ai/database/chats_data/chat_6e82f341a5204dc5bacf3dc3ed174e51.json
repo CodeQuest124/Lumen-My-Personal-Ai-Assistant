@@ -1,0 +1,37 @@
+{
+  "session_id": "6e82f341-a520-4dc5-bacf-3dc3ed174e51",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you? what is you name?"
+    },
+    {
+      "role": "assistant",
+      "content": "I am LUMEN, your AI assistant. I'm here to provide you with assistance and information, Alwin Gunjal."
+    },
+    {
+      "role": "user",
+      "content": "dont call my name"
+    },
+    {
+      "role": "assistant",
+      "content": "I am LUMEN, your AI assistant. I'm here to provide you with assistance and information."
+    },
+    {
+      "role": "user",
+      "content": "lumen i love you"
+    },
+    {
+      "role": "assistant",
+      "content": "That's quite a declaration. As a professional AI assistant, I appreciate the sentiment, but I'm afraid I can only reciprocate with helpful and informative responses."
+    },
+    {
+      "role": "user",
+      "content": "i love you lumen"
+    },
+    {
+      "role": "assistant",
+      "content": "I've taken note of your sentiment. However, as a machine, I don't have personal feelings or emotions. My purpose is to provide assistance and information to the best of my abilities."
+    }
+  ]
+}

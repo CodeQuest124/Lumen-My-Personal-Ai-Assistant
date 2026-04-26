@@ -1,0 +1,13 @@
+{
+  "session_id": "f6612ff1-c9b5-4a36-aff0-cfdf14f35e6e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello lumen tell something about me"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Alwin Gunjal, a tech enthusiast with a strong foundation in programming languages such as Python, C++, and Java, and a keen interest in software development, data structures, and algorithms."
+    }
+  ]
+}

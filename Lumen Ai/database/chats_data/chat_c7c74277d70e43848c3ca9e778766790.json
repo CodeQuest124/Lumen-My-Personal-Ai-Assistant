@@ -1,0 +1,77 @@
+{
+  "session_id": "c7c74277-d70e-4384-8c3c-a9e778766790",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are u"
+    },
+    {
+      "role": "assistant",
+      "content": "I am Lumen, your AI assistant, created by you, Alwin. I'm here to provide you with assistance and information."
+    },
+    {
+      "role": "user",
+      "content": "who is alwin"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Alwin, a tech enthusiast with a strong foundation in programming languages and a keen interest in software development, data structures, and algorithms, currently pursuing a Bachelor of Technology in Artificial Intelligence and Analytics."
+    },
+    {
+      "role": "user",
+      "content": "who im i to u"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Alwin, my creator, the one who made me, and I'm here to assist and provide you with information."
+    },
+    {
+      "role": "user",
+      "content": "tell me more about you"
+    },
+    {
+      "role": "assistant",
+      "content": "I am Lumen, a complete AI assistant designed to help with information, tasks, and actions, and I was created by you, Alwin, to serve as your personal intelligence system."
+    },
+    {
+      "role": "user",
+      "content": "I want you to open my Linkedin profile"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened My Linkedin Profile for you."
+    },
+    {
+      "role": "user",
+      "content": "pls open my linkedin profile"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened My Linkedin Profile for you."
+    },
+    {
+      "role": "user",
+      "content": "open this link when ever i say open my linkedIn profile or open my linkedIn \"https://www.instagram.com/alwinnn.who/?hl=en\""
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram Alwinnn for you."
+    },
+    {
+      "role": "user",
+      "content": "i am sorry \nbelow is the linkedIn profile \nhttps://www.linkedin.com/in/alwin-gunjal-353a2031b/"
+    },
+    {
+      "role": "assistant",
+      "content": "I've noted that your LinkedIn profile is https://www.linkedin.com/in/alwin-gunjal-353a2031b/, I'll open this link whenever you ask me to open your LinkedIn profile, Alwin."
+    },
+    {
+      "role": "user",
+      "content": "now open it"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened LinkedIn for you."
+    }
+  ]
+}

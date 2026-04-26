@@ -1,0 +1,13 @@
+{
+  "session_id": "1aac61be-d5a9-40e6-8059-abb43c0b72c5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tell me a fun fact"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}
