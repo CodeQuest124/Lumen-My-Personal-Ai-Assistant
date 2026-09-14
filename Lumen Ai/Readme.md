@@ -1,4 +1,4 @@
-# J.A.R.V.I.S - Just A Rather Very Intelligent System
+# L.U.M.E.N - Just A Rather Very Intelligent System
 
 An intelligent AI assistant built with FastAPI, LangChain, Groq AI, and a modern glass-morphism web UI. JARVIS provides three chat modes (Jarvis, General, Realtime), streaming responses, text-to-speech, voice input, and learns from your personal data files. Everything runs on one server with one command.
 
