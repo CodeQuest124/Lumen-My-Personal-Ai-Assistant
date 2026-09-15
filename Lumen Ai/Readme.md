@@ -306,7 +306,7 @@ User (Browser)
 ## Project Structure
 
 ```
-JARVIS/
+LUMEN/
 ├── frontend/                    # Web UI (vanilla HTML/CSS/JS, no build tools)
 │   ├── index.html               # Single-page app structure
 │   ├── style.css                # Dark glass-morphism theme, responsive
